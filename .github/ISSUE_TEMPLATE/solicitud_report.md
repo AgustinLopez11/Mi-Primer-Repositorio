@@ -1,9 +1,9 @@
 ---
 
 name: "🐛 Mejoras"
-about: "Reportar un error para ayudarnos a mejorar el proyecto."
-title: "[Mejoras] - Descripción corta del error"
-labels: bug
+about: "Puede suguerir mejoras."
+title: "[Mejoras] -Descripción de su mejora"
+labels: Mejoras
 assignees: ""
 
 ---
