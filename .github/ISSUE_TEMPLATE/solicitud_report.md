@@ -1,14 +1,13 @@
 ---
 
-# Solicitud de Mejora
+name: "🐛 Mejoras"
+about: "Reportar un error para ayudarnos a mejorar el proyecto."
+title: "[Mejoras] - Descripción corta del error"
+labels: bug
+assignees: ""
 
-**Nombre del solicitante:** [Tu nombre]  
-**Cargo o área:** [Tu cargo o departamento]  
-**Fecha:** [dd/mm/aaaa]
+---
 
-**A:** [Nombre del destinatario]  
-**Cargo:** [Cargo del destinatario]  
-**Departamento:** [Nombre del departamento o área]
 
 ## Asunto: Solicitud de mejora
 
