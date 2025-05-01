@@ -3,7 +3,7 @@
 name: "🐛 Mejoras"
 about: "Puede suguerir mejoras."
 title: "[Mejoras] -Descripción de su mejora"
-labels: Mejoras
+labels: fiature
 assignees: ""
 
 ---
